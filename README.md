@@ -4,7 +4,7 @@
 
 For detailed API documentation, please refer to the following Google Docs link:
 
-[API Documentation - Bookstore API](https://docs.google.com/document/d/your-google-docs-link)
+
 
 ## Endpoints
 
