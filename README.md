@@ -4,7 +4,7 @@
 
 For detailed API documentation, please refer to the following Google Docs link:
 
-
+[Link]https://docs.google.com/document/d/19vlWxdjsGJFgPr86ond0OamV1blSDwBWl4tQ0avyzaA/edit?tab=t.0
 
 ## Endpoints
 
