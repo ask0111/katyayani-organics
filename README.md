@@ -25,4 +25,4 @@ For detailed API documentation, please refer to the following Google Docs link:
 - **DELETE /api/books/delete-order/:id**: Delete a orders.
 
 
-### Note: Authantication not apply on orders
+**Note: Authantication not apply in orders routes due to misunderstanding in quetion**
