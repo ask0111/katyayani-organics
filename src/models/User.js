@@ -17,13 +17,13 @@ const userSchema = new mongoose.Schema({
   },
   role: {
     type: String,
-    enum: ["admin", "user"], // Example roles, you can add more as needed
-    default: "user",
+    enum: ["admin", "customer"], 
+    default: "customer",
   },
   orders: [
     {
       type: mongoose.Schema.Types.ObjectId,
-      ref: "Order", // Reference to the Order model
+      ref: "Order", 
     },
   ],
 });
